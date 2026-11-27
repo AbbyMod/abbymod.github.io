@@ -1,4 +1,4 @@
-name: Fetch, Build and Push
+name: Fetch it, Build it and Push it!
 
 on:
   workflow_dispatch:
